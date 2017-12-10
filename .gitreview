@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=platform_hardware_qcom_audio-caf.git
+defaultbranch=o8.1-msm8952
